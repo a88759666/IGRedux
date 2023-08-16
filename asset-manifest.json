@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/IG_Redux/static/css/main.54ae5642.css",
-    "main.js": "/IG_Redux/static/js/main.d0c18bc0.js",
-    "index.html": "/IG_Redux/index.html",
-    "main.54ae5642.css.map": "/IG_Redux/static/css/main.54ae5642.css.map",
-    "main.d0c18bc0.js.map": "/IG_Redux/static/js/main.d0c18bc0.js.map"
+    "main.css": "/IGRedux/static/css/main.54ae5642.css",
+    "main.js": "/IGRedux/static/js/main.7f46a24a.js",
+    "index.html": "/IGRedux/index.html",
+    "main.54ae5642.css.map": "/IGRedux/static/css/main.54ae5642.css.map",
+    "main.7f46a24a.js.map": "/IGRedux/static/js/main.7f46a24a.js.map"
   },
   "entrypoints": [
     "static/css/main.54ae5642.css",
-    "static/js/main.d0c18bc0.js"
+    "static/js/main.7f46a24a.js"
   ]
 }
