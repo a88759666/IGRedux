@@ -12,7 +12,7 @@ npm run server
 ```
 ## Deployment
 
-前往 [https://a88759666.github.io/AlphaCamp-twitter](https://a88759666.github.io/IGRedux/)
+前往 [https://a88759666.github.io/IGRedux](https://a88759666.github.io/IGRedux/)
 
 ## 指標功能
 
