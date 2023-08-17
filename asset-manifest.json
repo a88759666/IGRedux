@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/IGRedux/static/css/main.54ae5642.css",
-    "main.js": "/IGRedux/static/js/main.aa8094a4.js",
+    "main.js": "/IGRedux/static/js/main.85b0c736.js",
     "index.html": "/IGRedux/index.html",
     "main.54ae5642.css.map": "/IGRedux/static/css/main.54ae5642.css.map",
-    "main.aa8094a4.js.map": "/IGRedux/static/js/main.aa8094a4.js.map"
+    "main.85b0c736.js.map": "/IGRedux/static/js/main.85b0c736.js.map"
   },
   "entrypoints": [
     "static/css/main.54ae5642.css",
-    "static/js/main.aa8094a4.js"
+    "static/js/main.85b0c736.js"
   ]
 }
