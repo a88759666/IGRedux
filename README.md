@@ -26,6 +26,4 @@ npm run server
   * Tailwind樣式開發
 ```
 
-![screenshot](./src/assets/images/screenshot.png)
 
-```
