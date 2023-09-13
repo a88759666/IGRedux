@@ -1,5 +1,4 @@
-# React仿Instagram教學 初始專案
-
+# React仿Instagram 練習
 
 ## Getting Start
 ```
@@ -11,7 +10,6 @@ npm run server
 
 ## Deployment
 前往 [https://a88759666.github.io/IGRedux](https://a88759666.github.io/IGRedux/)
-
 
 
 ## 指標功能
@@ -26,5 +24,4 @@ npm run server
   * Typescript
   * Tailwind樣式開發
 ```
-
-
+![screenshot](./src/assets/images/screenshot.png)
