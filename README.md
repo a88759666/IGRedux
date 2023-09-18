@@ -2,7 +2,7 @@
 
 ## Getting Start
 ```
-npm install
+git clone https://github.com/a88759666/IGRedux.git
 npm run start
 npm run server
 ```
